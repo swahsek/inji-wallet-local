@@ -1,5 +1,5 @@
-name: project-name
+name: Inji Wallet
 version: ~
-title: Project Name
+title: Inji Wallet Documentation
 nav:
 - modules/ROOT/nav.adoc
