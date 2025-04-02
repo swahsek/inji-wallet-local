@@ -1,5 +1,5 @@
-name: Inji Wallet
+name: Inji Wallet Local
 version: ~
-title: Inji Wallet Documentation
+title: Inji Wallet Local
 nav:
 - modules/ROOT/nav.adoc

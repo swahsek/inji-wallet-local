@@ -6,7 +6,7 @@ content:
   - url: .
     branches: HEAD
   - url: https://github.com/swahsek/inji-wallet-global.git
-    branches: main
+    branches: HEAD
     start_path: docs
 ui:
   bundle:
