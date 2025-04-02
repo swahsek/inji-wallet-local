@@ -1,3 +1,10 @@
-= Welcome!
+= Welcome to Inji Wallet Documentation
+:page-layout: default
 
-You are home.
+== Inji Wallet Local
+Learn more about the local documentation:
+* xref:inji-wallet-local::index.adoc[Inji Wallet Local Documentation]
+
+== Inji Wallet Global
+Learn more about the global documentation:
+* xref:inji-wallet-global::index.adoc[Inji Wallet Global Documentation]

@@ -1,5 +1,5 @@
 site:
-  title: Docs
+  title: Inji Wallet Local
   start_page: inji-wallet-local::index.adoc
 content:
   sources:
