@@ -1,10 +1,11 @@
 site:
   title: Inji Wallet Local
-  start_page: inji-wallet-local::index.adoc
+  start_page: ROOT:index.adoc
 content:
   sources:
   - url: .
     branches: HEAD
+    start_page: ROOT:index.adoc
   - url: https://github.com/swahsek/inji-wallet-global.git
     branches: HEAD
     start_path: docs
