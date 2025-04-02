@@ -1,12 +1,13 @@
 site:
   title: Docs
-  start_page: project-name::index.adoc
+  start_page: inji-wallet-local::index.adoc
 content:
   sources:
   - url: .
     branches: HEAD
   - url: https://github.com/swahsek/inji-wallet-global.git
-
+    branches: main
+    start_path: docs
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
