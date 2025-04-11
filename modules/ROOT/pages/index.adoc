@@ -8,9 +8,3 @@ Learn more about the local documentation:
 == Inji Wallet Global
 Learn more about the global documentation:
 * xref:inji-wallet-global::index.adoc[Inji Wallet Global Documentation]
-
-== Inji Wallet Global 1.0.0
-* xref:inji-wallet-global::index-1.0.0.adoc[Inji Wallet Global Documentation]
-
-== Inji Wallet Global 2.0.0
-* xref:inji-wallet-global::index-2.0.0.adoc[Inji Wallet Global Documentation]
