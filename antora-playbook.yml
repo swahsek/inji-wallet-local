@@ -7,7 +7,7 @@ content:
     branches: HEAD
     start_page: ROOT:index.adoc
   - url: https://github.com/swahsek/inji-wallet-global.git
-    branches: HEAD
+    branches: [main, 1.0.0, 2.0.0]
     start_path: docs
 ui:
   bundle:
